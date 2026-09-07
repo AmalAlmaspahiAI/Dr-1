@@ -1,0 +1,11 @@
+تم تنفيذ المشروع بنجاح.
+عدد الصور التي تم استخراج السمات منها: 28 صورة.
+
+نتائج train2.py:
+Random Forest: 50.00%
+SVM: 66.67%
+KNN: 33.33%
+Decision Tree: 50.00%
+
+نتيجة tr.py:
+Random Forest accuracy = 50.00%
